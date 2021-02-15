@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* able to use git and github
+* have wonderful abilities
+* coding languages
+  * python
+  * c++
+  * js
+  * etc.
+* yes
