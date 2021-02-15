@@ -1,8 +1,8 @@
-* able to use git and github
-* have wonderful abilities
+* able to use _git_ and __github__
+* have wonderful **abilities**
 * coding languages
-  * python
-  * c++
-  * js
+  * ***py***thon
+  * c+*+*
+  * *js*
   * etc.
 * yes
